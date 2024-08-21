@@ -1,21 +1,20 @@
 body{
-    color: black 
-    blckground: red(204 , 187 ,187)
+    color: black ;
+    background: red(204 , 187 ,187);
 
-    margin: Opx
+    margin: Opx;
 }
 
-
     hearder{
-    border-bottom: solid 2px black
+    border-bottom: solid 2px black;
     
-    padding: 20px 
-    font-size: 32px 
-    color: blueviolet 
+    padding: 20px ;
+    font-size: 32px ;
+    color: blueviolet ;
 }
 
 section{
-    background-color: pink
+    background-color: pink;
     padding-top: 80px;
     padding-top: 80px ;
     display: flex ;
@@ -23,7 +22,7 @@ section{
 }
 
 .chamada-text {
-margin-right: 5% 
+margin-right: 5% ;
 }
 
-}
+
