@@ -24,19 +24,19 @@ header {
     margin-right: 5%;
 }
 h1{
-    font-size: 40px 
+    font-size: 40px;
 }
 p{
-    font-size: 20px
+    font-size: 20px;
 }
 img{
-    height: 200px  
+    height: 200px;
 }
 
 .categoria-videos{
     display: flex;
     overflow-x: auto;
-    gap: 10px 
+    gap: 10px ;
 }
 .categoria{
     padding-left: 20px;
